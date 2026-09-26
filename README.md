@@ -106,3 +106,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ---
 Developer: Abdulvahap Öğüt
+
+
+
+uvicorn main:app --host 0.0.0.0 --port 8000
